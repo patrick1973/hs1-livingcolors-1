@@ -34,7 +34,7 @@ const int RGBpinBLUE  = 11; //PWM
 const int LEDpinOut   = 13; // used for testing the toggle function of the push button
 
 const int buttonPin   = 2;  //Input pin for pauze button
-const int delayTime   = 75;
+const int delayTime   = 40;
 
 #endif MYTYPES_H
 
